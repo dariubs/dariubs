@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey 
+
+My name is Dariush, I'm building apps with Go, C++ and Postgres.
+
+- 🔭 I'm currently building [Altern](https://altern.ai) ( [on github](https://github.com/alternbits) )
+- 📫 How to reach me: [X](https://x.com/dariubs)
 
 <!--
 **dariubs/dariubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
