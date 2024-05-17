@@ -2,7 +2,7 @@
 
 My name is Dariush, I'm building apps with Go, C++ and Postgres.
 
-- 🔭 I'm currently building [Altern](https://altern.ai) ( [on github](https://github.com/alternbits) )
+- 🔭 I'm currently building [Altern](https://altern.ai) ( [on GitHub](https://github.com/alternbits), [on Productivity Directory](https://productivity.directory/altern) )
 - 📫 How to reach me: [X](https://x.com/dariubs)
 
 <!--
